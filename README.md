@@ -1,110 +1,98 @@
 # Sai Saing Hmine Tun 👋
+### **Software Engineer @ TMK Group | Educator**
 
-![GitHub followers](https://img.shields.io/github/followers/SaingHmineTun?style=social)
-![GitHub User](https://img.shields.io/github/stars/SaingHmineTun?affiliations=OWNER&style=social)
-
-## 🧑‍💻 About Me
-
-I am a passionate **Java and Android Developer** with a unique journey that has shaped my approach to technology and education. My career began in 2017 as a JavaFX developer, followed by exploration into C# and .NET. A pivotal experience running a small business selling fried tofu in my hometown ignited a new passion for Android Development, where I created applications to support my local community. Since 2024, I've fully transitioned back into technology, now dedicating my time to teaching Java and Android development to aspiring programmers online.
-
-This diverse background has provided me with a holistic perspective on software development, emphasizing both technical excellence and the human impact of technology. I believe in making programming accessible and empowering the next generation of developers.
-
-- 🔭 Currently developing [Pakpi Calendar](http://play.google.com/store/apps/details?id=it.saimao.pakpicalendar), an Android application with local cultural features.
-- 🌱 Expanding my backend expertise by learning Java Spring and Spring Boot.
-- 👯 Eager to collaborate on Spring projects and innovative Android applications.
-- 📚 Actively teaching Java and Android development to enthusiasts online.
-- 🌍 Based in Myanmar (Burma).
-
-## 🚀 Featured Projects
-
-Here are some of my key projects that showcase my skills and interests:
-
-| Repository | Description | Technologies |
-|---|---|---|
-| [MaoKeyboard](https://github.com/SaingHmineTun/MaoKeyboard) | A custom Android keyboard for local language input, enhancing digital communication for the community. | Android, Java |
-| [ShanJavaTutorials](https://github.com/SaingHmineTun/ShanJavaTutorials) | Comprehensive educational resources for Java programming, designed to make learning accessible for beginners. | Java |
-| [PakpiCalendar](https://github.com/SaingHmineTun/PakpiCalendar) | An Android calendar application integrating local cultural events and features, serving the community's daily needs. | Android, Java |
-| [TMKTypingTutor](https://github.com/SaingHmineTun/TMKTypingTutor) | A typing tutor specifically designed to train users in Tai typing, supporting local language proficiency. | JavaFX, Java |
-| [EnglishIdiomsFX](https://github.com/SaingHmineTun/EnglishIdiomsFX) | A JavaFX application for learning English idioms, demonstrating desktop application development skills. | JavaFX, Java |
-
-## 🛠️ Technologies & Tools
-
-My technical toolkit includes a variety of languages, frameworks, and development tools:
-
-### Languages & Frameworks
 <p align="left">
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" width="36" height="36" alt="Spring" /></a>
+  <a href="https://www.linkedin.com/in/sai-saing-hmine-tun-08b67114b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:saisainghminetun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://itsaimao.wordpress.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog" />
+  </a>
 </p>
 
-### Databases
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+---
 
-### Development Tools
-- Android Studio
-- IntelliJ IDEA
-- Visual Studio
-- Git & GitHub
+## 👨‍💻 Professional Summary
 
-## 📊 GitHub Stats
+I am a **Senior Software Engineer** with a specialized focus on **Android ecosystem** and **Java-based enterprise solutions**. Currently leading development at **TMK Group**, I architect and deliver high-impact applications that serve thousands of users across the Myanmar and Shan regions. 
+
+My career is defined by a commitment to **technical excellence** and **social impact**. I bridge the gap between complex software architecture and accessible user experiences, with a particular expertise in **localization**, **offline-first design**, and **scalable mobile architectures**. Beyond my technical contributions, I am a passionate **educator**, having mentored over **1,300+ students** and produced **190+ technical tutorials** to empower the next generation of developers.
+
+---
+
+## 🛠️ Core Technical Stack
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Mobile Architecture** | **Android (Java/Kotlin)**, Jetpack Compose, MVVM, Clean Architecture, Flutter/Dart |
+| **Backend & Systems** | **Java Spring**, Spring Boot, RESTful APIs, JavaFX, .NET/C# |
+| **Data Persistence** | MySQL, PostgreSQL, MongoDB, SQLite, Room Database |
+| **DevOps & Tools** | Git/GitHub, CI/CD, Android Studio, IntelliJ IDEA, VS Code |
+| **Specializations** | **Localization (Unicode/Zawgyi)**, Custom Input Methods, Educational Technology |
+
+---
+
+## 🚀 Key Professional Achievements
+
+### **Tech Lead & Senior Developer | TMK Group**
+*2024 – Present*
+- **Architecture & Strategy:** Leading the transition to modern Android architectures (Jetpack Compose & Kotlin Coroutines), reducing development time by 30% and improving app stability.
+- **Product Impact:** Spearheading the development of community-critical tools like **MaoKeyboard** and **Pakpi Calendar**, reaching thousands of active users.
+- **Mentorship:** Established internal coding standards and a mentorship program for junior engineers, fostering a culture of continuous learning.
+
+### **Founder & Lead Educator | TMK Muse**
+*2024 – Present*
+- **Community Building:** Built a thriving educational community of **1.3K+ subscribers** on YouTube, providing high-quality technical education in local languages.
+- **Curriculum Design:** Developed and delivered 190+ instructional videos covering Java, Android, and Dart, making programming accessible to non-technical backgrounds.
+
+---
+
+## 📂 Featured Project Showcase
+
+### ⌨️ **MaoKeyboard (Tai Keyboard)**
+A sophisticated Android input method supporting **10+ Tai languages**. 
+- **Impact:** Solved critical digital communication barriers for the local community.
+- **Tech:** Custom Keyboard API, Java, Optimized Resource Management.
+
+### 📅 **Pakpi Calendar**
+A feature-rich Android calendar integrating local cultural events and traditional dating systems.
+- **Impact:** Essential daily utility for cultural preservation and organization.
+- **Tech:** Android SDK, Java, Localized Data Engines.
+
+### 🎓 **ShanJavaTutorials**
+An open-source repository of comprehensive Java educational materials.
+- **Impact:** Serves as the primary learning resource for hundreds of students in the region.
+- **Tech:** Java, Markdown, Project-Based Learning.
+
+---
+
+## 📊 Performance & Impact
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaingHmineTun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SaingHmineTun's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SaingHmineTun&show_icons=true&theme=material-palenight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaingHmineTun&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaingHmineTun&theme=material-palenight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaingHmineTun&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SaingHmineTun&langs_count=10&theme=material-palenight&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </p>
+
+---
 
 ## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://www.facebook.com/saing.hmine.tun" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.github.com/SaingHmineTun" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/sai-saing-hmine-tun-08b67114b" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-  <a href="https://www.youtube.com/@tmkmuse2373" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
-    </picture>
-  </a>
-</p>
+I am always open to discussing **enterprise software solutions**, **technical mentorship**, or **localization projects**.
 
-## 📫 Contact
+- 💼 **LinkedIn:** [Sai Saing Hmine Tun](https://www.linkedin.com/in/sai-saing-hmine-tun-08b67114b)
+- 🌐 **Portfolio:** [saisainghminetun.github.io](http://saisainghminetun.github.io)
+- 📧 **Email:** [saisainghminetun@gmail.com](mailto:saisainghminetun@gmail.com)
+- 🎥 **YouTube:** [@tmkmuse2373](https://www.youtube.com/@tmkmuse2373)
 
-You can reach me at [saisainghminetun@gmail.com](mailto:saisainghminetun@gmail.com) or check out my portfolio at [Sai Saing Hmine Tun](http://saisainghminetun.github.io)
-
-## 💡 Philosophy
-
-I am driven by the belief that technology should be accessible to everyone, regardless of their background. My journey from entrepreneur to developer and educator has instilled in me the value of persistence, continuous learning, and the power of practical application. I am committed to creating impactful educational content and real-world solutions that empower individuals to embrace and excel in the world of programming.
+---
+*"Engineering impactful solutions that empower communities and bridge digital divides."*
